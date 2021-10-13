@@ -2,14 +2,14 @@
 
 ### WILDAN ASYROF DEWAYANA / E41200381 / A
 
-### HOME
+#### HOME
 
 ![alt text](https://github.com/wildanasyrof/WMA_Fragment_BottomNavigation/blob/main/home.jpg)
 
-### BROWSE
+#### BROWSE
 
 ![alt text](https://github.com/wildanasyrof/WMA_Fragment_BottomNavigation/blob/main/browse.jpg)
 
-### HISTORY
+#### HISTORY
 
 ![alt text](https://github.com/wildanasyrof/WMA_Fragment_BottomNavigation/blob/main/history.jpg)
