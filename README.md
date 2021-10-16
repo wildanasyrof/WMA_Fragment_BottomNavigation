@@ -10,6 +10,7 @@
 #### Inplicit
 
 #####$ Intent membuka new apps. wa, ig, telegram
+
 ![alt text](https://github.com/wildanasyrof/WMA_Intent/blob/main/implicit1.jpeg)
 
-![alt text](https://github.com/wildanasyrof/WMA_Fragment_BottomNavigation/blob/main/implicit.jpg)
+![alt text](https://github.com/wildanasyrof/WMA_Intent/blob/main/implicit.jpeg)
