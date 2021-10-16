@@ -2,14 +2,14 @@
 
 ### WILDAN ASYROF DEWAYANA / E41200381 / A
 
-#### HOME
+#### Explicit
+###### Intent main activity ke detail anime activity
 
-![alt text](https://github.com/wildanasyrof/WMA_Fragment_BottomNavigation/blob/main/home.jpg)
+![alt text](https://github.com/wildanasyrof/WMA_Intent/blob/main/explicit.jpeg)
 
-#### BROWSE
+#### Inplicit
 
-![alt text](https://github.com/wildanasyrof/WMA_Fragment_BottomNavigation/blob/main/browse.jpg)
+#####$ Intent membuka new apps. wa, ig, telegram
+![alt text](https://github.com/wildanasyrof/WMA_Intent/blob/main/implicit1.jpeg)
 
-#### HISTORY
-
-![alt text](https://github.com/wildanasyrof/WMA_Fragment_BottomNavigation/blob/main/history.jpg)
+![alt text](https://github.com/wildanasyrof/WMA_Fragment_BottomNavigation/blob/main/implicit.jpg)
